@@ -2,7 +2,6 @@
 using namespace std;
 int main()
 {
-	char qwe[] = "asdqwertyasd";
-	cout << qwe << endl;
+	cout << 1 << endl;
 }
 	
